@@ -1,10 +1,6 @@
 
 <img src="https://media.tenor.com/3VcHyjby6dMAAAAM/vibing-shintsumiki.gif"/>
 
-<img src="https://emocowboy.neocities.org/home/graphics/blinkies/evil%20laugh.gif" style="font-size: 16px;"/><span style="font-size: max(0.875em, 12px);">
-</span>
-
-sign my guestbook guys i promy im cool
 
 <!--
 **Akiramiou/Akiramiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
